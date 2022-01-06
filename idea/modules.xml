@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheesemenu.iml" filepath="$PROJECT_DIR$/.idea/modules/cheesemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/cheesemenu.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/cheesemenu.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/cheesemenu.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/cheesemenu.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/cheesemenu.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/cheesemenu.desktop.iml" />
+    </modules>
+  </component>
+</project>
